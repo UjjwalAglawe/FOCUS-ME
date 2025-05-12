@@ -1,12 +1,26 @@
-# React + Vite
+# 🧠 DISS-TRACT – Focus Mode Chrome Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DISS-TRACT** is a minimal and powerful productivity Chrome extension that helps you stay focused by blocking distracting websites like Instagram, Facebook, and YouTube during a focus session. Inspired by the Pomodoro technique, it features a customizable timer, motivational quotes, and sarcasm to keep you on track.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⏳ **Custom Timer:** Set your focus duration (in minutes and seconds).
+- 🔒 **Website Blocker:** Blocks predefined distracting sites during the session.
+- 📵 **Focus Reminder Page:** Replaces blocked sites with a motivational + sarcastic message.
+- 🧠 **Persistence:** Saves timer data even if you reload the browser.
+- 🕶️ **Dark Theme:** Clean and distraction-free dark UI.
+- 🔁 **Reset & Stop Controls:** Easily restart or stop the timer.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![Screenshot of Timer](./assets/timer-preview.png)
+![Blocked Page](./assets/blocked-page-preview.png)
+
+---
+
+## 📁 Folder Structure
+

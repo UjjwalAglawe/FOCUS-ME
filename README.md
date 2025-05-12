@@ -17,10 +17,9 @@
 
 ## 🖼️ Preview
 
-![Screenshot of Timer](./assets/timer-preview.png)
-![Blocked Page](./assets/blocked-page-preview.png)
+![Screenshot of Timer](./public/timer-preview.png)
+![Blocked Page](./public/blocked-page-preview.png)
 
 ---
 
-## 📁 Folder Structure
 
